@@ -11,7 +11,14 @@
 * https://nostarch.com/beyond-basic-stuff-python - Beyond the basic stuff, 1st Edition, Al Sweigart
 * https://nostarch.com/pythoncrashcourse2e - Python Crash Course, 2nd Edition, Eric Matthes
 
+## Technical Interview Resources
+* https://www.hackerrank.com/domains/python
+* https://www.codewars.com/collections/basic-python
+
+
 ## Other resources
-* https://www.reddit.com/r/learnpython/wiki/index
-* https://www.learnpython.org/
-* https://docs.python.org/3/tutorial/
+* https://www.reddit.com/r/learnpython/wiki/index - Reddit Learn Python Wiki
+* https://www.learnpython.org/ - Learn Python
+* https://docs.python.org/3/tutorial/ - Python 3 Docs
+* https://discord.gg/python - PYthon Discord
+* https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ - Python 3 Cheat Sheet
