@@ -1,7 +1,7 @@
 # python-education
 
 ## Project Ideas
-* https://philhather.medium.com/loading-api-data-into-google-bigquery-with-cloud-functions-and-scheduler-ffc4a74b2e05 - Loading API data into BigQuery with Cloud Functions and Scheduler
+* https://philhather.medium.com/loading-api-data-into-google-bigquery-with-cloud-functions-and-scheduler-ffc4a74b2e05 - Loading API data into BigQuery with Cloud Functions and Scheduler - Python
 
 ## Youtube tutorials
 * https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
