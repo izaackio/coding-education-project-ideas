@@ -34,5 +34,6 @@
 
 ## Data Engineering Project Ideas
 * https://philhather.medium.com/loading-api-data-into-google-bigquery-with-cloud-functions-and-scheduler-ffc4a74b2e05 - Loading API data into BigQuery with Cloud Functions and Scheduler - Python
+* https://betterprogramming.pub/5-data-engineering-projects-to-add-to-your-resume-32984d86fd37?gi=82c0acb73f61 - 5 Data Engineering projects to add to your portfolio
 
 ## Machine-Learning Project Ideas
