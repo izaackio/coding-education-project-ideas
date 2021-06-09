@@ -28,6 +28,9 @@
 ### Courses
 * http://joinsqool.com/ - SQL Learning School
 
+### Books
+* https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/ - Learning SQL 3rd Ed.
+
 ## BigQuery
 ### Courses
 * x
