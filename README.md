@@ -3,6 +3,7 @@
 ## Python
 ### Courses
 * https://www.udemy.com/course/100-days-of-code/ - 100 Days of Python
+* https://www.coursera.org/professional-certificates/google-it-automation - Google IT Automation with Python Certificate
 
 ### Youtube tutorials
 * https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
@@ -27,6 +28,7 @@
 ## SQL
 ### Courses
 * http://joinsqool.com/ - SQL Learning School
+* https://www.coursera.org/professional-certificates/google-data-analytics - Google Data Analytics Certificate, SQL, R, Tableau
 
 ### Books
 * https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/ - Learning SQL 3rd Ed.
