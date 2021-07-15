@@ -34,6 +34,10 @@
 * https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/ - Learning SQL 3rd Ed.
 
 ## BigQuery
+### How-tos:
+* https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43 - Querying BigQuery with Python
+
+
 ### Courses
 * x
 
