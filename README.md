@@ -36,6 +36,7 @@
 ## BigQuery
 ### How-tos:
 * https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43 - Querying BigQuery with Python
+* https://lakshmanok.medium.com/anomaly-detection-in-time-series-data-using-bigquery-ml-b70e10a9f3ff - Anomaly detection in Time-series data with BigQueryML
 
 
 ### Courses
