@@ -47,5 +47,6 @@
 * https://betterprogramming.pub/5-data-engineering-projects-to-add-to-your-resume-32984d86fd37?gi=82c0acb73f61 - 5 Data Engineering projects to add to your portfolio
 * https://github.com/josephmachado/beginner_de_project - Beginner Data Engineering Project
 * https://www.youtube.com/watch?v=LJkVvNWlO0g - Data Sources for your Data Engineering Projects
+* https://www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers/
 
 ## Machine-Learning Project Ideas
