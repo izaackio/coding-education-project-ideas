@@ -48,5 +48,6 @@
 * https://github.com/josephmachado/beginner_de_project - Beginner Data Engineering Project
 * https://www.youtube.com/watch?v=LJkVvNWlO0g - Data Sources for your Data Engineering Projects
 * https://www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers/
+* https://github.com/dylanzenner/business_closures_de_pipeline - Example of Data Engineering Pipeline
 
 ## Machine-Learning Project Ideas
