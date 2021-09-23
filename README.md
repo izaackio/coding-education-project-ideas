@@ -4,6 +4,7 @@
 ### Courses
 * https://www.udemy.com/course/100-days-of-code/ - 100 Days of Python
 * https://www.coursera.org/professional-certificates/google-it-automation - Google IT Automation with Python Certificate
+* https://www.udemy.com/course/the-python-mega-course/ - Python Education with 10 projects - LOOKS GOOD!
 
 ### Youtube tutorials
 * https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
@@ -38,7 +39,6 @@
 * https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43 - Querying BigQuery with Python
 * https://lakshmanok.medium.com/anomaly-detection-in-time-series-data-using-bigquery-ml-b70e10a9f3ff - Anomaly detection in Time-series data with BigQueryML
 
-
 ### Courses
 * x
 
@@ -50,4 +50,3 @@
 * https://www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers/
 * https://github.com/dylanzenner/business_closures_de_pipeline - Example of Data Engineering Pipeline
 
-## Machine-Learning Project Ideas
