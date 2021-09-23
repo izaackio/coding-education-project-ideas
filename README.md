@@ -8,6 +8,7 @@
 
 ### Youtube tutorials
 * https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
+* https://www.youtube.com/watch?v=Gf1QaBReA2I&list=PLaphlDmXXPRVcjVRdr2fNx-Y1K0vg-dQN&index=12&t=334s - 5 easy beginner Python projects by Kalle Hallden
 
 ### Books
 * https://automatetheboringstuff.com/ - Automate the boring stuff, 2nd Edition, Al Sweigart
