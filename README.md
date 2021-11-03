@@ -5,6 +5,7 @@
 * https://www.udemy.com/course/100-days-of-code/ - 100 Days of Python
 * https://www.coursera.org/professional-certificates/google-it-automation - Google IT Automation with Python Certificate
 * https://www.udemy.com/course/the-python-mega-course/ - Python Education with 10 projects - LOOKS GOOD!
+* https://www.udemy.com/course/automate/learn/lecture/3309062?start=0#overview - Automate the boring stuff with Python on Udemy
 
 ### Youtube tutorials
 * https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
